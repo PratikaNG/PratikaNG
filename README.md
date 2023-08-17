@@ -3,7 +3,7 @@
 __________________________________
 ### Frontend Developer
 - 📍Banglore, India
-- 🌱 I’m currently learning Frontend Developer
+- 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me:<a href = "https://www.linkedin.com/in/pratika-ng/"> Linkedin</a>
 - 😄 Pronouns: She/Her
 -----------------------------------------------------
